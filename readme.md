@@ -6,7 +6,7 @@ This is a repository for the git assignment for the module Programming and Scrip
 ## Getting Started
 To get started with this project: add a new change
 
-1. **Fork this repository** by clicking the Fork button in the top-right corner of this page.
+tton in the top-right corner of this page.
 
 2. **Clone your fork** to your local machine:
 ```bash
