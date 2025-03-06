@@ -4,7 +4,7 @@
 This is a repository for the git assignment for the module Programming and Scripting. The assignment is to research the history of git and create a readme file in a git repository.    
 
 ## Getting Started
-To get started with this project:
+To get started with this project: add a new change
 
 1. **Fork this repository** by clicking the Fork button in the top-right corner of this page.
 
