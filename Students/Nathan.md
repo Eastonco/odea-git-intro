@@ -1,8 +1,8 @@
 ## Personal Details
 
-- **Name**: [Your Name]
-- **Grade**: [Your Grade Level]
-- **Favorite Subject**: [Your Favorite Subject]
+- **Name**: [Nathan Olmsted]
+- **Grade**: [12]
+- **Favorite Subject**: [History]
 
 ## About Me
-The most interesting thing I've learned this year is....
+The most interesting thing I've learned this year is coding.
